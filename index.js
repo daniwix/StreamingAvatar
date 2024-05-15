@@ -1,7 +1,7 @@
 'use strict';
 
 const heygen_API = {
-  apiKey: 'YourApiKey',
+  apiKey: 'MzliZTMwMjQ4NmFlNGQxZWE3YjliNmI3NTM5MGRlMDctMTcxNTc3NjM0OQ==',
   serverUrl: 'https://api.heygen.com',
 };
 
